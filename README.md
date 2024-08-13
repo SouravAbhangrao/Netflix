@@ -11,7 +11,7 @@ all around the globe.
 
 ● Identify trends and patterns in the dataset.
 ● Use data-driven insights to guide content production and business expansion.
-● explore genres, ratings, release years, countries, and other relevant attributes.
+● Explore genres, ratings, release years, countries, and other relevant attributes.
 ● Derive valuable insights to support decision-making processes.
 
 #Insights based on Non-Graphical and Visual Analysis:
